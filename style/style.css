@@ -543,3 +543,7 @@ input{
     color: #FFFFFF;
 
 }
+.img-arm{
+    display: flex;
+    justify-content: center;
+}
